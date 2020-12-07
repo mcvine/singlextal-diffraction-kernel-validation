@@ -1,3 +1,3 @@
-![Simulated](sim.jpg | width=400)
+![Simulated](sim.jpg)
 
-![Experiment](exp.jpg | width=400)
+![Experiment](exp.jpg)
